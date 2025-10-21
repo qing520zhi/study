@@ -13,5 +13,6 @@ public class LoopStatement {
 			i += i;
 		}
 		System.out.println(i);
+		
 	}
 }
