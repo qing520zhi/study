@@ -2,7 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
-      <option name="ADDITIONAL_TAGS" value="program:,description:,author:,create:" />
+      <option name="ADDITIONAL_TAGS" value="program:,description:,author:,create:,description:方法的定义和调用,Description:,Param:,return:,Author:,Date:" />
     </inspection_tool>
   </profile>
 </component>
