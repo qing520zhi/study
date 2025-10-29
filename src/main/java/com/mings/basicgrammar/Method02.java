@@ -35,4 +35,12 @@ public class Method02 {
 	public static int max(int a, int b, int c) {
 		return Math.max(a, Math.max(b, c));
 	}
+
+	public static int max(byte a, byte b) {
+		return Math.max(a, b);
+	}
+
+	public static int max(short a, short b) {
+		return Math.max(a, b);
+	}
 }
