@@ -1,8 +1,10 @@
 # 项目名称
+
 study
+
 ## 项目简介
 
-学习Java所写
+学习Java
 
 ## 功能特性
 
@@ -19,23 +21,27 @@ Java
 ### 环境要求
 
 列出运行项目所需的最低环境要求，如：
+
 - Java 8+
 - Maven 3.6+
 - MySQL 5.7+
 
 ### 安装步骤
 
-\[\](file://F:\javademo\study\pom.xml)\`bash
 # 克隆项目
-git clone https://github.com/yourusername/yourproject.git
+
+git clone https://github.com/qing520zhi/study.git
 
 # 进入项目目录
+
 cd yourproject
 
 # 安装依赖
+
 mvn install
 
 # 运行项目
+
 mvn spring-boot:run
 \[\](file://F:\javademo\study\pom.xml)\`
 
@@ -50,6 +56,7 @@ mvn spring-boot:run
 ## 贡献指南
 
 欢迎任何形式的贡献，请遵循以下步骤：
+
 1. Fork 本仓库
 2. 创建功能分支 (\`git checkout -b feature/AmazingFeature\`)
 3. 提交更改 (\`git commit -m 'Add some AmazingFeature'\`)
@@ -62,4 +69,4 @@ mvn spring-boot:run
 
 ## 联系方式
 
-您的联系方式或项目维护者信息。
+mings520@qq.com。

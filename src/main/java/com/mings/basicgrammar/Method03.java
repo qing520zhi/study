@@ -17,7 +17,7 @@ public class Method03 {
 		}
 		//传递基本类型参数时，形参的改变不会影响实参
 		change(a);
-		//改变引用类型参数时，形参的改变会影响实参
+		//改变引用类型参数时，形参的改变会影响实参 传递的是数组的地址
 		change(b);
 		System.out.println("a=" + a);
 		System.out.println("b[2]=" + b[2]);
