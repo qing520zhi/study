@@ -11,6 +11,16 @@ public class Student {
 	private int age;
 	private double score;
 
+	public Student(String name, int age, double score) {
+		this.name = name;
+		this.age = age;
+		this.score = score;
+	}
+
+	public Student() {
+		System.out.println("无参构造方法");
+	}
+
 	public String getName() {
 		return name;
 	}
